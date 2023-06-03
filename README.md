@@ -29,6 +29,9 @@ The following tools were used in this project:
 - Scikit-learn 0.22.2 <img src="https://img.icons8.com/color/48/000000/scikit-learn.png"/>
 - TensorFlow 2.1.0 <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
 
+## <img src="https://img.icons8.com/color/48/000000/usage.png"/> Usage
+To use this code, clone the repository and run the Jupyter notebook in a Python environment with the required packages installed. The notebook includes detailed explanations of the code and the methodology used.
+
 ## <img src="https://img.icons8.com/color/48/000000/conference-call.png"/> Authors
 
 This project was created by the following team members as a part of King Saud University's research on sentiment analysis:
