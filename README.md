@@ -6,6 +6,8 @@ This project involves using natural language processing techniques to conduct bi
 
 The Sentiment140 dataset with 1.6 million tweets was used for this project. The dataset was preprocessed and cleaned to remove URLs, special characters, and stop words.
 
+Dataset source :- https://www.kaggle.com/datasets/kazanova/sentiment140/code
+
 ## <img src="https://img.icons8.com/color/48/000000/brain.png"/> Methodology
 
 Two models, logistic regression and LSTM, were selected for sentiment analysis. Logistic regression, a well-established and interpretable model, was deemed appropriate for straightforward sentiment analysis tasks. In contrast, LSTM, a recurrent neural network variant, excelled in capturing sequential dependencies within textual data.
