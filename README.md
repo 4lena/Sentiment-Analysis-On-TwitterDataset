@@ -1,4 +1,4 @@
-# <img src="https://img.icons8.com/color/48/000000/document.png"/> Sentiment Analysis on Twitter Data
+# <img src="https://img.icons8.com/color/48/000000/document.png"/> <img src="https://img.icons8.com/fluent/48/000000/twitter.png"/> Sentiment Analysis on Twitter Data
 
 This project involves using natural language processing techniques to conduct binary sentiment classification on a dataset comprising tweets. The objective is to categorize each tweet as either positive or negative based on the sentiment conveyed in the text.
 
