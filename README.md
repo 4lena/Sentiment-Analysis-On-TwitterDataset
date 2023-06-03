@@ -16,7 +16,7 @@ The models were trained and tested on a subset of the original dataset using sev
 
 The LSTM model demonstrated slightly superior performance across all evaluation metrics, exhibiting marginally higher accuracy, precision, recall, and F1-score. These findings underscore the potential real-world implications of the LSTM model, making it a favorable choice for sentiment analysis endeavors.
 
-## <img src="https://img.icons8.com/color/48/000000/toolbox.png"/>  Tools
+## <img src="https://img.icons8.com/color/48/000000/settings.png"/>  Tools
 
 The following tools were used in this project:
 
@@ -27,7 +27,7 @@ The following tools were used in this project:
 - Scikit-learn 0.22.2 <img src="https://img.icons8.com/color/48/000000/scikit-learn.png"/>
 - TensorFlow 2.1.0 <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
 
-## Authors
+## <img src="https://img.icons8.com/color/48/000000/conference-call.png"/> Authors
 
 This project was created by the following team members as a part of King Saud University's research on sentiment analysis:
 
