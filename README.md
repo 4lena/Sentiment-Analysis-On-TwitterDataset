@@ -23,13 +23,14 @@ The LSTM model demonstrated slightly superior performance across all evaluation 
 The following tools were used in this project:
 
 - Python 3.7.3 <img src="https://img.icons8.com/color/48/000000/python.png"/>
-- Jupyter notebook 6.0.3 <img src="https://img.icons8.com/color/48/000000/jupyter-notebook.png"/>
+- TensorFlow 2.1.0 <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
 - NumPy 1.18.4 <img src="https://img.icons8.com/color/48/000000/numpy.png"/>
 - Pandas 1.0.3 <img src="https://img.icons8.com/color/48/000000/pandas.png"/>
-- Scikit-learn 0.22.2 <img src="https://img.icons8.com/color/48/000000/scikit-learn.png"/>
-- TensorFlow 2.1.0 <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
+- Scikit-learn 0.22.2 
+- Jupyter notebook 6.0.3
 
-## <img src="https://img.icons8.com/color/48/000000/usage.png"/> Usage
+
+## <img src="https://img.icons8.com/color/48/000000/chart.png"/> Usage
 To use this code, clone the repository and run the Jupyter notebook in a Python environment with the required packages installed. The notebook includes detailed explanations of the code and the methodology used.
 
 ## <img src="https://img.icons8.com/color/48/000000/conference-call.png"/> Authors
