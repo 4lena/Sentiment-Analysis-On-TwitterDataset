@@ -3,7 +3,7 @@
 This project involves using natural language processing techniques to conduct binary sentiment classification on a dataset comprising tweets. The objective is to categorize each tweet as either positive or negative based on the sentiment conveyed in the text.
 
 ## Dataset
-Link :- https://www.kaggle.com/datasets/kazanova/sentiment140/code
+
 The Sentiment140 dataset with 1.6 million tweets was used for this project. The dataset was preprocessed and cleaned to remove URLs, special characters, and stop words.
 
 ## Methodology
